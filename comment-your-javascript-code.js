@@ -1,0 +1,2 @@
+// comment
+/* milti comment */
